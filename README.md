@@ -15,7 +15,7 @@ This user script enables unlimited reading on Medium.com by detecting paywall el
    - [Violentmonkey](https://violentmonkey.github.io/)
 
 2. **Add the User Script:**
-   - Click on the following link to install the script: [Medium.com Unlimited Reading](#)
+   - Click on the following link to install the script: [Medium.com Unlimited Reading](https://raw.githubusercontent.com/vmanoilov/medium_unlimited_reader/main/medium-unlimited-reader.user.js)
 
 ## How It Works
 
@@ -34,4 +34,4 @@ This project is licensed under the MIT License.
 - Inspired by existing solutions and discussions in the developer community.
 - Utilizes the [freedium.cfd](https://freedium.cfd/) service for accessing Medium articles.
 
-*Note: This script is for educational purposes. Use responsibly.* 
+*Note: This script is for educational purposes. Use responsibly.*
